@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = () => {
   return (
-    <div className="w-full mb-12  flex flex-col items-start border-2 rounded-lg border-[#F1F4FB] h-[328px]">
+    <div className="w-full  flex flex-col items-start border-2 rounded-lg border-[#F1F4FB] h-[328px]">
       <div className="w-full  h-[160px] bg-[#95CCC9] relative">
         <h3 className="absolute bottom-5 left-5 font-NotoSansJP font-[700] text-[16px] text-[#FFFFFF]">
           Blog Generator
